@@ -1,4 +1,3 @@
-# Smart-EVA-BioMonitoring
 # Smart EVA Suit Bio-Monitoring and Early Warning System
 
 ## Overview
